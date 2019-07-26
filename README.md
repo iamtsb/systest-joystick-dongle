@@ -1,6 +1,10 @@
 # Joystick test dongle for Amiga Test Kit (Systest)
 
-Test dongle for [Systest ( amiga ) from Keir Fraser](https://github.com/keirf/Amiga-Stuff) ( [download](https://drive.google.com/file/d/0B6F45EdkSMp1ZGhXMWRvOXVDd3M/view) ).
+current version: v1.1
+
+release date: 2019-07-26
+
+
 
 ### Why ?
 
@@ -15,3 +19,4 @@ There is an interval of approx. 1 second between the simulated actions of the â€
 
 see: https://www.tsb.space/projects/systest-joystick-dongle/
 
+download systest:  [Systest ( amiga ) from Keir Fraser](https://github.com/keirf/Amiga-Stuff) ( [download](https://drive.google.com/file/d/0B6F45EdkSMp1ZGhXMWRvOXVDd3M/view) ).
