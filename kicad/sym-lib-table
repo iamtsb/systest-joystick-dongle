@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name joystick-tester-systest-rescue)(type Legacy)(uri "${KIPRJMOD}/joystick tester systest-rescue.lib")(options "")(descr ""))
+)
